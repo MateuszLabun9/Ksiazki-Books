@@ -1,0 +1,8 @@
+﻿  funkcje.cpp
+D:\S_T_U_D_I_A\PROJEKTY\Programowanie\Ksiazki\Ksiazki\Ksiazki\funkcje.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\S_T_U_D_I_A\PROJEKTY\Programowanie\Ksiazki\Ksiazki\Ksiazki\funkcje.cpp(359,12): warning C4101: 'pom': unreferenced local variable
+  Źródło.cpp
+D:\S_T_U_D_I_A\PROJEKTY\Programowanie\Ksiazki\Ksiazki\Ksiazki\Źródło.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+D:\S_T_U_D_I_A\PROJEKTY\Programowanie\Ksiazki\Ksiazki\Ksiazki\funkcje.cpp(53): warning C4715: 'porownaj': not all control paths return a value
+  Ksiazki.vcxproj -> D:\S_T_U_D_I_A\PROJEKTY\Programowanie\Ksiazki\Ksiazki\Debug\Ksiazki.exe
