@@ -1,5 +1,5 @@
 # Ksiazki
- A project to sort books by labels
+ Project that sort books by labels and list them in proper theme collections.
 
 Input file is Text.txt
 
@@ -29,6 +29,6 @@ Sample file content :
 
 
 
-A project to sort books by labels, the subsequent book titles are read from the Text.txt file. Full naming control has been implemented. 
+Project that sort books by labels and list them in proper theme collections, the subsequent book titles are read from the Text.txt file. Full naming control has been implemented. 
 If there is any additional special character in the middle of word it will be ignored and program won't take it 
 
